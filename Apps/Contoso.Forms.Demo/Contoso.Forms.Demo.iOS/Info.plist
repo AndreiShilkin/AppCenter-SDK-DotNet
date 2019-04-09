@@ -46,10 +46,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>None</string>
 			<key>CFBundleURLName</key>
-			<string>com.microsoft.appcenter.xamarin.forms.demo</string>
+			<string>com.akvelon.andreishilkin.appcenter.sasquatchswift</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>appcenter-fe2bf05d-f4f9-48a6-83d9-ea8033fbb644</string>
+				<string>appcenter-97a3adb7-2eb8-4976-9ab1-d221110e1ede</string>
 			</array>
 		</dict>
 	</array>
