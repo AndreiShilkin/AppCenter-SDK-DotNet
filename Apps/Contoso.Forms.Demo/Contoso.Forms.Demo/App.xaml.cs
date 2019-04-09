@@ -16,8 +16,8 @@ namespace Contoso.Forms.Demo
         const string LogTag = "AppCenterXamarinDemo";
 
         const string uwpKey = "5bce20c8-f00b-49ca-8580-7a49d5705d4c";
-        const string androidKey = "987b5941-4fac-4968-933e-98a7ff29237c";
-        const string iosKey = "fe2bf05d-f4f9-48a6-83d9-ea8033fbb644";
+        const string AndroidKey = "cbb3947e-3ccf-410a-bb52-847b3445090e";
+        const string IosKey = "97a3adb7-2eb8-4976-9ab1-d221110e1ede";
 
         public App()
         {
