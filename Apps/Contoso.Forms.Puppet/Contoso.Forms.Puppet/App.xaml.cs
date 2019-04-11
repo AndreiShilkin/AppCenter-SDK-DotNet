@@ -17,8 +17,8 @@ namespace Contoso.Forms.Puppet
 
         // App Center keys
         const string UwpKey = "a678b499-1912-4a94-9d97-25b569284d3a";
-        const string AndroidKey = "d82ef880-515e-4003-a938-a9284696bc30";
-        const string IosKey = "97a3adb7-2eb8-4976-9ab1-d221110e1ede";
+        const string AndroidKey = "e17d232d-9741-42dc-aac1-b3138fec6e3a";
+        const string IosKey = "ddf3c492-cf39-4b38-8f69-3438c8c79f66";
 
         public App()
         {
